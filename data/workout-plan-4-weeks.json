@@ -1,0 +1,174 @@
+{
+  "week_1": {
+    "focus": "Foundation Building",
+    "frequency": "3 days",
+    "day_1": {
+      "name": "Upper Body Power",
+      "duration": "25 mins",
+      "exercises": [
+        {
+          "name": "Push-ups",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60s",
+          "testosterone_benefit": "Compound movement boosts T production"
+        },
+        {
+          "name": "Pike Push-ups",
+          "sets": 3,
+          "reps": "6-10",
+          "rest": "60s",
+          "testosterone_benefit": "Shoulder strength enhances overall power"
+        },
+        {
+          "name": "Tricep Dips (chair/bench)",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "45s",
+          "testosterone_benefit": "Arm strength supports compound lifts"
+        },
+        {
+          "name": "Plank Hold",
+          "sets": 3,
+          "reps": "30-45s",
+          "rest": "45s",
+          "testosterone_benefit": "Core stability improves hormone production"
+        },
+        {
+          "name": "Mountain Climbers",
+          "sets": 3,
+          "reps": "20 each leg",
+          "rest": "60s",
+          "testosterone_benefit": "HIIT cardio boosts T levels"
+        }
+      ]
+    },
+    "day_2": {
+      "name": "Lower Body Strength",
+      "duration": "25 mins",
+      "exercises": [
+        {
+          "name": "Bodyweight Squats",
+          "sets": 4,
+          "reps": "12-15",
+          "rest": "60s",
+          "testosterone_benefit": "Large muscle group activation"
+        },
+        {
+          "name": "Lunges (alternating)",
+          "sets": 3,
+          "reps": "10 each leg",
+          "rest": "60s",
+          "testosterone_benefit": "Unilateral strength builds power"
+        },
+        {
+          "name": "Single-leg Glute Bridges",
+          "sets": 3,
+          "reps": "8-12 each",
+          "rest": "45s",
+          "testosterone_benefit": "Glute activation improves T production"
+        },
+        {
+          "name": "Wall Sit",
+          "sets": 3,
+          "reps": "30-45s",
+          "rest": "60s",
+          "testosterone_benefit": "Isometric holds boost hormone response"
+        },
+        {
+          "name": "Calf Raises",
+          "sets": 3,
+          "reps": "15-20",
+          "rest": "30s",
+          "testosterone_benefit": "Lower leg strength supports compound movements"
+        }
+      ]
+    },
+    "day_3": {
+      "name": "Full Body HIIT",
+      "duration": "20 mins",
+      "exercises": [
+        {
+          "name": "Burpees",
+          "sets": 4,
+          "reps": "6-10",
+          "rest": "90s",
+          "testosterone_benefit": "Full body explosive movement"
+        },
+        {
+          "name": "Jump Squats",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60s",
+          "testosterone_benefit": "Plyometric power development"
+        },
+        {
+          "name": "High Knees",
+          "sets": 3,
+          "reps": "30s",
+          "rest": "30s",
+          "testosterone_benefit": "Cardio intensity boosts T"
+        },
+        {
+          "name": "Push-up to T",
+          "sets": 3,
+          "reps": "6-8 each side",
+          "rest": "60s",
+          "testosterone_benefit": "Rotational power and stability"
+        },
+        {
+          "name": "Plank Jacks",
+          "sets": 3,
+          "reps": "15-20",
+          "rest": "45s",
+          "testosterone_benefit": "Core power with cardio element"
+        }
+      ]
+    }
+  },
+  "week_2": {
+    "focus": "Strength Building",
+    "frequency": "4 days",
+    "day_1": {
+      "name": "Upper Body Power Plus",
+      "duration": "28 mins",
+      "exercises": [
+        {
+          "name": "Diamond Push-ups",
+          "sets": 4,
+          "reps": "6-10",
+          "rest": "75s",
+          "testosterone_benefit": "Increased tricep activation"
+        },
+        {
+          "name": "Handstand Hold (wall)",
+          "sets": 3,
+          "reps": "15-30s",
+          "rest": "90s",
+          "testosterone_benefit": "Inverted position boosts circulation"
+        },
+        {
+          "name": "Wide-grip Push-ups",
+          "sets": 3,
+          "reps": "8-12",
+          "rest": "60s",
+          "testosterone_benefit": "Chest development enhances T"
+        },
+        {
+          "name": "Side Plank (each side)",
+          "sets": 3,
+          "reps": "20-30s",
+          "rest": "45s",
+          "testosterone_benefit": "Lateral core strength"
+        },
+        {
+          "name": "Bear Crawl",
+          "sets": 3,
+          "reps": "30s",
+          "rest": "60s",
+          "testosterone_benefit": "Full body coordination"
+        }
+      ]
+    }
+  }
+}

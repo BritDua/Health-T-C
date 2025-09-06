@@ -1,0 +1,186 @@
+{
+  "week_1": {
+    "day_1": {
+      "breakfast": {
+        "name": "Kontomire & Egg Scramble",
+        "ingredients": ["kontomire", "eggs", "tomatoes", "onions", "ginger", "coconut_oil"],
+        "calories": 320,
+        "protein": "22g",
+        "fiber": "8g",
+        "prep_time": "15 mins"
+      },
+      "lunch": {
+        "name": "Grilled Tilapia with Sweet Potato",
+        "ingredients": ["tilapia", "sweet_potato", "spinach", "garlic", "ginger", "lemon"],
+        "calories": 450,
+        "protein": "35g",
+        "fiber": "12g",
+        "prep_time": "25 mins"
+      },
+      "snack": {
+        "name": "Tiger Nut & Coconut Mix",
+        "ingredients": ["tiger_nuts", "coconut_flakes", "cinnamon"],
+        "calories": 180,
+        "protein": "6g",
+        "fiber": "5g",
+        "prep_time": "5 mins"
+      }
+    },
+    "day_2": {
+      "breakfast": {
+        "name": "Millet Porridge with Groundnuts",
+        "ingredients": ["millet", "groundnuts", "ginger", "cinnamon", "coconut_milk"],
+        "calories": 340,
+        "protein": "18g",
+        "fiber": "10g",
+        "prep_time": "20 mins"
+      },
+      "lunch": {
+        "name": "Black-Eyed Peas Stew with Brown Rice",
+        "ingredients": ["black_eyed_peas", "brown_rice", "tomatoes", "onions", "pepper", "bay_leaves"],
+        "calories": 420,
+        "protein": "20g",
+        "fiber": "15g",
+        "prep_time": "35 mins"
+      },
+      "snack": {
+        "name": "Roasted Plantain Chips",
+        "ingredients": ["green_plantain", "coconut_oil", "sea_salt"],
+        "calories": 160,
+        "protein": "3g",
+        "fiber": "6g",
+        "prep_time": "20 mins"
+      }
+    },
+    "day_3": {
+      "breakfast": {
+        "name": "Yam & Spinach Hash",
+        "ingredients": ["yam", "spinach", "eggs", "onions", "garlic", "nutmeg"],
+        "calories": 350,
+        "protein": "20g",
+        "fiber": "9g",
+        "prep_time": "18 mins"
+      },
+      "lunch": {
+        "name": "Grilled Chicken with Okra Stew",
+        "ingredients": ["chicken_breast", "okra", "tomatoes", "onions", "ginger", "thyme"],
+        "calories": 480,
+        "protein": "40g",
+        "fiber": "11g",
+        "prep_time": "30 mins"
+      },
+      "snack": {
+        "name": "Papaya & Groundnut Bowl",
+        "ingredients": ["papaya", "groundnuts", "lime", "mint"],
+        "calories": 170,
+        "protein": "8g",
+        "fiber": "7g",
+        "prep_time": "5 mins"
+      }
+    },
+    "day_4": {
+      "breakfast": {
+        "name": "Cassava & Fish Breakfast",
+        "ingredients": ["cassava", "mackerel", "tomatoes", "onions", "pepper", "ginger"],
+        "calories": 380,
+        "protein": "25g",
+        "fiber": "8g",
+        "prep_time": "22 mins"
+      },
+      "lunch": {
+        "name": "Cowpea & Vegetable Curry",
+        "ingredients": ["cowpeas", "carrots", "green_beans", "coconut_milk", "curry_powder", "garlic"],
+        "calories": 440,
+        "protein": "22g",
+        "fiber": "16g",
+        "prep_time": "28 mins"
+      },
+      "snack": {
+        "name": "Avocado & Tiger Nut Smoothie",
+        "ingredients": ["avocado", "tiger_nuts", "coconut_water", "lime"],
+        "calories": 190,
+        "protein": "5g",
+        "fiber": "8g",
+        "prep_time": "5 mins"
+      }
+    },
+    "day_5": {
+      "breakfast": {
+        "name": "Guinea Fowl Egg Omelet",
+        "ingredients": ["guinea_fowl_eggs", "kontomire", "tomatoes", "onions", "coconut_oil"],
+        "calories": 330,
+        "protein": "24g",
+        "fiber": "6g",
+        "prep_time": "12 mins"
+      },
+      "lunch": {
+        "name": "Grilled Sardines with Yam",
+        "ingredients": ["sardines", "yam", "cabbage", "carrots", "ginger", "lemon"],
+        "calories": 460,
+        "protein": "32g",
+        "fiber": "10g",
+        "prep_time": "25 mins"
+      },
+      "snack": {
+        "name": "Coconut & Mango Bites",
+        "ingredients": ["coconut_flakes", "mango", "chia_seeds"],
+        "calories": 150,
+        "protein": "4g",
+        "fiber": "6g",
+        "prep_time": "8 mins"
+      }
+    },
+    "day_6": {
+      "breakfast": {
+        "name": "Sweet Potato & Groundnut Mash",
+        "ingredients": ["sweet_potato", "groundnuts", "spinach", "ginger", "coconut_oil"],
+        "calories": 360,
+        "protein": "16g",
+        "fiber": "12g",
+        "prep_time": "20 mins"
+      },
+      "lunch": {
+        "name": "Turkey & Garden Egg Stew",
+        "ingredients": ["turkey", "garden_eggs", "tomatoes", "onions", "thyme", "bay_leaves"],
+        "calories": 470,
+        "protein": "38g",
+        "fiber": "9g",
+        "prep_time": "32 mins"
+      },
+      "snack": {
+        "name": "Pineapple & Groundnut Mix",
+        "ingredients": ["pineapple", "groundnuts", "coconut_flakes"],
+        "calories": 165,
+        "protein": "7g",
+        "fiber": "5g",
+        "prep_time": "5 mins"
+      }
+    },
+    "day_7": {
+      "breakfast": {
+        "name": "Plantain & Egg Scramble",
+        "ingredients": ["ripe_plantain", "eggs", "spinach", "onions", "nutmeg"],
+        "calories": 340,
+        "protein": "18g",
+        "fiber": "8g",
+        "prep_time": "15 mins"
+      },
+      "lunch": {
+        "name": "Tilapia & Black-Eyed Peas",
+        "ingredients": ["tilapia", "black_eyed_peas", "okra", "tomatoes", "garlic", "ginger"],
+        "calories": 450,
+        "protein": "35g",
+        "fiber": "14g",
+        "prep_time": "30 mins"
+      },
+      "snack": {
+        "name": "Watermelon & Tiger Nut Bowl",
+        "ingredients": ["watermelon", "tiger_nuts", "mint", "lime"],
+        "calories": 140,
+        "protein": "5g",
+        "fiber": "4g",
+        "prep_time": "5 mins"
+      }
+    }
+  }
+}

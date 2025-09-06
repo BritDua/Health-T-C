@@ -1,0 +1,30 @@
+{
+  "name": "ghanaian-health-app",
+  "version": "1.0.0",
+  "description": "30-day Ghanaian meal plan and 4-week workout program",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "build": "expo build",
+    "publish": "expo publish"
+  },
+  "dependencies": {
+    "expo": "~49.0.0",
+    "react": "18.2.0",
+    "react-native": "0.72.6",
+    "react-navigation": "^4.4.4",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "react-native-async-storage": "^1.19.3",
+    "react-native-vector-icons": "^10.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "keywords": ["ghana", "health", "fitness", "meal-plan", "workout"],
+  "author": "TeQsify Health",
+  "license": "MIT"
+}
