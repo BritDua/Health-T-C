@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🇬🇭 Ghanaian Health & Fitness App</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#CE1126">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>🇬🇭 Ghanaian Health App</h1>
+            <p>30-Day Meal Plan • 4-Week Workout</p>
+        </header>
+
+        <nav class="bottom-nav">
+            <button class="nav-btn active" data-tab="meals">🍽️ Meals</button>
+            <button class="nav-btn" data-tab="workouts">💪 Workouts</button>
+            <button class="nav-btn" data-tab="shopping">🛒 Shopping</button>
+            <button class="nav-btn" data-tab="progress">📊 Progress</button>
+        </nav>
+
+        <main class="main-content">
+            <div id="meals" class="tab-content active">
+                <div class="day-selector">
+                    <button class="day-btn active" data-day="1">Day 1</button>
+                    <button class="day-btn" data-day="2">Day 2</button>
+                    <button class="day-btn" data-day="3">Day 3</button>
+                </div>
+
+                <div class="meals-container">
+                    <div class="meal-card">
+                        <div class="meal-header">
+                            <h3>🌅 Breakfast</h3>
+                            <span class="meal-time">15 mins</span>
+                        </div>
+                        <h4>Kontomire & Egg Scramble</h4>
+                        <div class="meal-stats">
+                            <span>320 cal</span>
+                            <span>22g protein</span>
+                        </div>
+                        <button class="recipe-btn" onclick="showRecipe('breakfast')">View Recipe</button>
+                    </div>
+
+                    <div class="meal-card">
+                        <div class="meal-header">
+                            <h3>🍽️ Lunch</h3>
+                            <span class="meal-time">25 mins</span>
+                        </div>
+                        <h4>Grilled Tilapia with Sweet Potato</h4>
+                        <div class="meal-stats">
+                            <span>450 cal</span>
+                            <span>35g protein</span>
+                        </div>
+                        <button class="recipe-btn" onclick="showRecipe('lunch')">View Recipe</button>
+                    </div>
+
+                    <div class="meal-card">
+                        <div class="meal-header">
+                            <h3>🥜 Snack</h3>
+                            <span class="meal-time">5 mins</span>
+                        </div>
+                        <h4>Tiger Nut & Coconut Mix</h4>
+                        <div class="meal-stats">
+                            <span>180 cal</span>
+                            <span>6g protein</span>
+                        </div>
+                        <button class="recipe-btn" onclick="showRecipe('snack')">View Recipe</button>
+                    </div>
+                </div>
+            </div>
+
+            <div id="workouts" class="tab-content">
+                <div class="workout-card">
+                    <h3>Day 1 - Upper Body Power</h3>
+                    <div class="exercise-list">
+                        <div class="exercise">
+                            <span>Push-ups</span>
+                            <span>3 × 8-12</span>
+                        </div>
+                        <div class="exercise">
+                            <span>Pike Push-ups</span>
+                            <span>3 × 6-10</span>
+                        </div>
+                        <div class="exercise">
+                            <span>Plank Hold</span>
+                            <span>3 × 30-45s</span>
+                        </div>
+                    </div>
+                    <button class="start-workout-btn">Start Workout</button>
+                </div>
+            </div>
+
+            <div id="shopping" class="tab-content">
+                <div class="shopping-category">
+                    <h3>🐟 Proteins</h3>
+                    <div class="shopping-items">
+                        <label><input type="checkbox"> Tilapia fillets (1 lb)</label>
+                        <label><input type="checkbox"> Chicken breast (1.5 lbs)</label>
+                        <label><input type="checkbox"> Eggs (1 dozen)</label>
+                    </div>
+                </div>
+            </div>
+
+            <div id="progress" class="tab-content">
+                <div class="progress-card">
+                    <h3>🍽️ Meals Completed</h3>
+                    <div class="progress-bar">
+                        <div class="progress-fill" style="width: 85%"></div>
+                    </div>
+                    <p>18/21 meals this week</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <div id="recipeModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="recipeContent"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

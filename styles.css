@@ -1,0 +1,319 @@
+/* Ghanaian Health App Styles */
+:root {
+    --ghana-red: #CE1126;
+    --ghana-gold: #FCD116;
+    --ghana-green: #006B3F;
+    --dark-gray: #212529;
+    --light-gray: #F8F9FA;
+    --white: #FFFFFF;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: var(--light-gray);
+    color: var(--dark-gray);
+    line-height: 1.6;
+}
+
+.app-container {
+    max-width: 414px;
+    margin: 0 auto;
+    background: var(--white);
+    min-height: 100vh;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.app-header {
+    background: linear-gradient(135deg, var(--ghana-red), var(--ghana-green));
+    color: var(--white);
+    padding: 20px;
+    text-align: center;
+}
+
+.app-header h1 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+}
+
+.app-header p {
+    opacity: 0.9;
+    font-size: 0.9rem;
+}
+
+.bottom-nav {
+    display: flex;
+    background: var(--white);
+    border-top: 1px solid #eee;
+    position: sticky;
+    bottom: 0;
+    z-index: 100;
+}
+
+.nav-btn {
+    flex: 1;
+    padding: 12px 8px;
+    border: none;
+    background: none;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.nav-btn.active {
+    color: var(--ghana-red);
+    background: var(--light-gray);
+}
+
+.main-content {
+    padding: 20px;
+    padding-bottom: 80px;
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.day-selector {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+    overflow-x: auto;
+    padding-bottom: 5px;
+}
+
+.day-btn {
+    padding: 8px 16px;
+    border: 2px solid var(--ghana-green);
+    background: var(--white);
+    color: var(--ghana-green);
+    border-radius: 20px;
+    cursor: pointer;
+    white-space: nowrap;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.day-btn.active {
+    background: var(--ghana-green);
+    color: var(--white);
+}
+
+.meal-card {
+    background: var(--white);
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    border-left: 4px solid var(--ghana-gold);
+}
+
+.meal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.meal-header h3 {
+    color: var(--ghana-red);
+    font-size: 1rem;
+}
+
+.meal-time {
+    background: var(--light-gray);
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    color: var(--dark-gray);
+}
+
+.meal-card h4 {
+    margin-bottom: 12px;
+    color: var(--dark-gray);
+}
+
+.meal-stats {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.meal-stats span {
+    background: var(--light-gray);
+    padding: 4px 8px;
+    border-radius: 8px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.recipe-btn {
+    background: var(--ghana-green);
+    color: var(--white);
+    border: none;
+    padding: 10px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.recipe-btn:hover {
+    background: #005530;
+}
+
+.workout-card {
+    background: var(--white);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    border-left: 4px solid var(--ghana-red);
+}
+
+.workout-card h3 {
+    color: var(--ghana-red);
+    margin-bottom: 16px;
+}
+
+.exercise-list {
+    margin-bottom: 20px;
+}
+
+.exercise {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--light-gray);
+}
+
+.exercise:last-child {
+    border-bottom: none;
+}
+
+.start-workout-btn {
+    background: var(--ghana-red);
+    color: var(--white);
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    width: 100%;
+}
+
+.shopping-category {
+    margin-bottom: 24px;
+}
+
+.shopping-category h3 {
+    color: var(--ghana-green);
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--ghana-gold);
+}
+
+.shopping-items {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.shopping-items label {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.shopping-items input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    accent-color: var(--ghana-green);
+}
+
+.progress-card {
+    background: var(--white);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.progress-card h3 {
+    color: var(--ghana-red);
+    margin-bottom: 12px;
+}
+
+.progress-bar {
+    background: var(--light-gray);
+    height: 8px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 8px;
+}
+
+.progress-fill {
+    background: linear-gradient(90deg, var(--ghana-green), var(--ghana-gold));
+    height: 100%;
+    transition: width 0.3s;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.modal-content {
+    background-color: var(--white);
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 500px;
+    position: relative;
+}
+
+.close {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    color: var(--dark-gray);
+}
+
+@media (max-width: 480px) {
+    .app-container {
+        max-width: 100%;
+    }
+    
+    .main-content {
+        padding: 15px;
+    }
+    
+    .day-selector {
+        gap: 6px;
+    }
+    
+    .day-btn {
+        padding: 6px 12px;
+        font-size: 0.9rem;
+    }
+}
