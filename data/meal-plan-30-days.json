@@ -1,0 +1,909 @@
+{
+  "week_1": {
+    "day_1": {
+      "breakfast": {
+        "name": "Kontomire & Egg Scramble",
+        "ingredients": ["2 cups kontomire (cocoyam leaves)", "2 eggs", "1 tomato, diced", "1 onion, sliced", "1 tsp fresh ginger, grated", "1 tsp coconut oil"],
+        "calories": 320,
+        "protein": "22g",
+        "fiber": "8g",
+        "prep_time": "15 mins",
+        "instructions": ["Heat coconut oil in pan over medium heat", "Sauté onions and ginger until fragrant (2 mins)", "Add tomatoes, cook until soft (3 mins)", "Add kontomire, cook until wilted (3 mins)", "Beat eggs and scramble with vegetables (4 mins)", "Season with salt and pepper to taste"],
+        "benefits": "High in folate, iron, and complete proteins for testosterone support"
+      },
+      "lunch": {
+        "name": "Grilled Tilapia with Sweet Potato",
+        "ingredients": ["6 oz tilapia fillet", "1 medium sweet potato, cubed", "2 cups fresh spinach", "2 cloves garlic, minced", "1 tsp fresh ginger", "1 lemon, juiced"],
+        "calories": 450,
+        "protein": "35g",
+        "fiber": "12g",
+        "prep_time": "25 mins",
+        "instructions": ["Season tilapia with garlic, ginger, lemon juice, salt, pepper", "Grill tilapia 4-5 mins each side until flaky", "Steam sweet potato cubes until tender (15 mins)", "Sauté spinach with garlic (2 mins)", "Serve fish over sweet potato with spinach on the side"],
+        "benefits": "Omega-3 fatty acids, beta-carotene, and lean protein for hormone optimization"
+      },
+      "snack": {
+        "name": "Tiger Nut & Coconut Mix",
+        "ingredients": ["1/4 cup tiger nuts (soaked)", "2 tbsp coconut flakes", "Pinch of cinnamon"],
+        "calories": 180,
+        "protein": "6g",
+        "fiber": "5g",
+        "prep_time": "5 mins",
+        "instructions": ["Soak tiger nuts for 2 hours or overnight for softness", "Drain and mix with coconut flakes", "Sprinkle cinnamon and enjoy as afternoon snack"],
+        "benefits": "Natural testosterone boosters, healthy fats, and fiber"
+      }
+    },
+    "day_2": {
+      "breakfast": {
+        "name": "Millet Porridge with Groundnuts",
+        "ingredients": ["1/2 cup millet", "2 tbsp groundnuts, crushed", "1 tsp fresh ginger", "1/2 tsp cinnamon", "1/2 cup coconut milk"],
+        "calories": 340,
+        "protein": "18g",
+        "fiber": "10g",
+        "prep_time": "20 mins",
+        "instructions": ["Rinse millet and boil in 2 cups water (15 mins)", "Stir in coconut milk and ginger", "Top with crushed groundnuts and cinnamon", "Serve warm"],
+        "benefits": "Slow-release energy, magnesium for testosterone production"
+      },
+      "lunch": {
+        "name": "Black-Eyed Peas Stew with Brown Rice",
+        "ingredients": ["1 cup black-eyed peas (cooked)", "1/2 cup brown rice", "2 tomatoes, blended", "1 onion, diced", "1 scotch bonnet pepper", "2 bay leaves"],
+        "calories": 420,
+        "protein": "20g",
+        "fiber": "15g",
+        "prep_time": "35 mins",
+        "instructions": ["Cook brown rice according to package directions", "Sauté onions until golden", "Add blended tomatoes and pepper, cook 10 mins", "Add cooked black-eyed peas and bay leaves", "Simmer 15 mins, serve over brown rice"],
+        "benefits": "Plant-based protein, zinc, and complex carbs for sustained energy"
+      },
+      "snack": {
+        "name": "Roasted Plantain Chips",
+        "ingredients": ["1 green plantain", "1 tsp coconut oil", "Pinch of sea salt"],
+        "calories": 160,
+        "protein": "3g",
+        "fiber": "6g",
+        "prep_time": "20 mins",
+        "instructions": ["Peel and slice plantain thinly", "Toss with coconut oil and sea salt", "Bake at 375°F for 15-18 mins until crispy", "Cool before eating"],
+        "benefits": "Resistant starch for gut health, potassium for muscle function"
+      }
+    },
+    "day_3": {
+      "breakfast": {
+        "name": "Yam & Spinach Hash",
+        "ingredients": ["1 cup yam, diced small", "2 cups spinach", "2 eggs", "1 onion, diced", "2 cloves garlic", "Pinch of nutmeg"],
+        "calories": 350,
+        "protein": "20g",
+        "fiber": "9g",
+        "prep_time": "18 mins",
+        "instructions": ["Boil yam cubes until just tender (8 mins)", "Sauté onions and garlic in pan", "Add yam cubes and cook until golden", "Add spinach, cook until wilted", "Make two wells, crack eggs in, cover and cook 3 mins"],
+        "benefits": "Complex carbs, iron from spinach, complete protein from eggs"
+      },
+      "lunch": {
+        "name": "Grilled Chicken with Okra Stew",
+        "ingredients": ["6 oz chicken breast", "1 cup okra, sliced", "2 tomatoes, diced", "1 onion, sliced", "1 tsp fresh ginger", "Fresh thyme sprigs"],
+        "calories": 480,
+        "protein": "40g",
+        "fiber": "11g",
+        "prep_time": "30 mins",
+        "instructions": ["Season chicken with ginger, thyme, salt, pepper", "Grill chicken 6-7 mins each side", "Sauté onions, add tomatoes and cook 5 mins", "Add okra, simmer 10 mins until tender", "Serve grilled chicken with okra stew"],
+        "benefits": "Lean protein for muscle building, okra fiber for digestive health"
+      },
+      "snack": {
+        "name": "Papaya & Groundnut Bowl",
+        "ingredients": ["1 cup papaya, cubed", "2 tbsp groundnuts", "1 lime, juiced", "Fresh mint leaves"],
+        "calories": 170,
+        "protein": "8g",
+        "fiber": "7g",
+        "prep_time": "5 mins",
+        "instructions": ["Cube fresh papaya into bowl", "Top with groundnuts", "Squeeze lime juice over top", "Garnish with fresh mint"],
+        "benefits": "Digestive enzymes, vitamin C, healthy fats for hormone balance"
+      }
+    },
+    "day_4": {
+      "breakfast": {
+        "name": "Cassava & Fish Breakfast",
+        "ingredients": ["1 cup cassava, boiled and mashed", "4 oz mackerel fillet", "1 tomato, diced", "1 onion, sliced", "1 scotch bonnet pepper", "1 tsp fresh ginger"],
+        "calories": 380,
+        "protein": "25g",
+        "fiber": "8g",
+        "prep_time": "22 mins",
+        "instructions": ["Boil cassava until soft, mash lightly", "Season mackerel with ginger and pepper", "Pan-fry mackerel 3-4 mins each side", "Sauté onions and tomatoes for sauce", "Serve fish over mashed cassava with sauce"],
+        "benefits": "Omega-3 from mackerel, energy-dense carbs from cassava"
+      },
+      "lunch": {
+        "name": "Cowpea & Vegetable Curry",
+        "ingredients": ["1 cup cowpeas (cooked)", "1 carrot, diced", "1/2 cup green beans", "1/2 cup coconut milk", "1 tsp curry powder", "2 cloves garlic"],
+        "calories": 440,
+        "protein": "22g",
+        "fiber": "16g",
+        "prep_time": "28 mins",
+        "instructions": ["Sauté garlic and curry powder until fragrant", "Add carrots and green beans, cook 5 mins", "Pour in coconut milk, bring to simmer", "Add cooked cowpeas, simmer 15 mins", "Season and serve with brown rice or alone"],
+        "benefits": "Plant protein, anti-inflammatory spices, healthy fats"
+      },
+      "snack": {
+        "name": "Avocado & Tiger Nut Smoothie",
+        "ingredients": ["1/2 avocado", "2 tbsp tiger nuts (soaked)", "1 cup coconut water", "1 lime, juiced"],
+        "calories": 190,
+        "protein": "5g",
+        "fiber": "8g",
+        "prep_time": "5 mins",
+        "instructions": ["Blend soaked tiger nuts with coconut water until smooth", "Add avocado and lime juice", "Blend until creamy", "Serve immediately over ice"],
+        "benefits": "Healthy monounsaturated fats, electrolytes, natural energy"
+      }
+    },
+    "day_5": {
+      "breakfast": {
+        "name": "Guinea Fowl Egg Omelet",
+        "ingredients": ["3 guinea fowl eggs (or 2 chicken eggs)", "1 cup kontomire, chopped", "1 tomato, diced", "1 onion, sliced", "1 tsp coconut oil"],
+        "calories": 330,
+        "protein": "24g",
+        "fiber": "6g",
+        "prep_time": "12 mins",
+        "instructions": ["Beat eggs with pinch of salt", "Heat coconut oil in pan", "Sauté onions and tomatoes 2 mins", "Add kontomire, cook 2 mins", "Pour eggs over vegetables, cook until set", "Fold and serve"],
+        "benefits": "Complete amino acids, vitamin A from kontomire, healthy cholesterol"
+      },
+      "lunch": {
+        "name": "Grilled Sardines with Yam",
+        "ingredients": ["6 oz fresh sardines", "1 cup yam, boiled", "1 cup cabbage, shredded", "1 carrot, grated", "1 tsp fresh ginger", "1 lemon"],
+        "calories": 460,
+        "protein": "32g",
+        "fiber": "10g",
+        "prep_time": "25 mins",
+        "instructions": ["Season sardines with ginger, lemon, salt", "Grill sardines 3-4 mins each side", "Boil yam until tender", "Toss cabbage and carrot with lemon dressing", "Serve sardines with yam and coleslaw"],
+        "benefits": "Calcium from sardine bones, vitamin D, complex carbs"
+      },
+      "snack": {
+        "name": "Coconut & Mango Bites",
+        "ingredients": ["1/2 cup mango, diced", "3 tbsp coconut flakes", "1 tsp chia seeds"],
+        "calories": 150,
+        "protein": "4g",
+        "fiber": "6g",
+        "prep_time": "8 mins",
+        "instructions": ["Dice fresh mango into bite-sized pieces", "Roll mango pieces in coconut flakes", "Sprinkle chia seeds on top", "Chill 5 mins before serving"],
+        "benefits": "Vitamin C for immunity, MCTs from coconut, omega-3 from chia"
+      }
+    },
+    "day_6": {
+      "breakfast": {
+        "name": "Sweet Potato & Groundnut Mash",
+        "ingredients": ["1 medium sweet potato", "2 tbsp groundnut paste", "1 cup spinach", "1 tsp fresh ginger", "1 tsp coconut oil"],
+        "calories": 360,
+        "protein": "16g",
+        "fiber": "12g",
+        "prep_time": "20 mins",
+        "instructions": ["Boil sweet potato until very soft", "Mash with groundnut paste and ginger", "Sauté spinach in coconut oil", "Top mash with sautéed spinach", "Season with salt and pepper"],
+        "benefits": "Beta-carotene, plant protein, iron for blood health"
+      },
+      "lunch": {
+        "name": "Turkey & Garden Egg Stew",
+        "ingredients": ["6 oz turkey breast", "4 garden eggs (African eggplant)", "2 tomatoes, blended", "1 onion, diced", "Fresh thyme", "2 bay leaves"],
+        "calories": 470,
+        "protein": "38g",
+        "fiber": "9g",
+        "prep_time": "32 mins",
+        "instructions": ["Season turkey with thyme, salt, pepper", "Grill or pan-fry turkey 6-7 mins each side", "Boil garden eggs until soft, blend", "Cook tomato base with onions 10 mins", "Add garden egg puree, simmer with bay leaves", "Serve turkey with garden egg stew"],
+        "benefits": "Lean protein, antioxidants from garden eggs, anti-inflammatory herbs"
+      },
+      "snack": {
+        "name": "Pineapple & Groundnut Mix",
+        "ingredients": ["1 cup pineapple, chunked", "2 tbsp groundnuts, roasted", "1 tbsp coconut flakes"],
+        "calories": 165,
+        "protein": "7g",
+        "fiber": "5g",
+        "prep_time": "5 mins",
+        "instructions": ["Cut fresh pineapple into chunks", "Mix with roasted groundnuts", "Sprinkle coconut flakes on top", "Enjoy immediately"],
+        "benefits": "Bromelain for digestion, protein from groundnuts, natural sugars"
+      }
+    },
+    "day_7": {
+      "breakfast": {
+        "name": "Plantain & Egg Scramble",
+        "ingredients": ["1 ripe plantain, sliced", "2 eggs", "1 cup spinach", "1 onion, diced", "Pinch of nutmeg"],
+        "calories": 340,
+        "protein": "18g",
+        "fiber": "8g",
+        "prep_time": "15 mins",
+        "instructions": ["Pan-fry plantain slices until golden (3 mins each side)", "Set aside plantain", "Sauté onions, add spinach until wilted", "Scramble eggs with vegetables and nutmeg", "Serve eggs alongside fried plantain"],
+        "benefits": "Potassium from plantain, complete protein, iron from spinach"
+      },
+      "lunch": {
+        "name": "Tilapia & Black-Eyed Peas Bowl",
+        "ingredients": ["6 oz tilapia fillet", "1 cup black-eyed peas (cooked)", "1/2 cup okra, sliced", "2 tomatoes, diced", "2 cloves garlic", "1 tsp fresh ginger"],
+        "calories": 450,
+        "protein": "35g",
+        "fiber": "14g",
+        "prep_time": "30 mins",
+        "instructions": ["Season and grill tilapia 4-5 mins each side", "Sauté garlic, ginger, and tomatoes", "Add okra and cook 5 mins", "Add black-eyed peas, simmer 10 mins", "Serve fish over bean and okra stew"],
+        "benefits": "Complete protein, zinc from legumes, omega-3 from fish"
+      },
+      "snack": {
+        "name": "Watermelon & Tiger Nut Bowl",
+        "ingredients": ["1.5 cups watermelon, cubed", "2 tbsp tiger nuts", "Fresh mint leaves", "1 lime, juiced"],
+        "calories": 140,
+        "protein": "5g",
+        "fiber": "4g",
+        "prep_time": "5 mins",
+        "instructions": ["Cube fresh watermelon into bowl", "Add soaked tiger nuts", "Squeeze lime juice over top", "Garnish with fresh mint leaves"],
+        "benefits": "Hydration, citrulline for blood flow, prebiotic fiber"
+      }
+    }
+  },
+
+  "week_2": {
+    "day_1": {
+      "breakfast": {
+        "name": "Millet & Banana Porridge",
+        "ingredients": ["1/2 cup millet", "1 ripe banana", "1 tbsp groundnut paste", "1/2 tsp cinnamon", "1/2 cup coconut milk"],
+        "calories": 360,
+        "protein": "14g",
+        "fiber": "9g",
+        "prep_time": "18 mins",
+        "instructions": ["Cook millet in water until soft (15 mins)", "Mash banana and stir into porridge", "Add coconut milk and groundnut paste", "Sprinkle cinnamon and serve warm"],
+        "benefits": "Slow-release energy, potassium, magnesium for recovery"
+      },
+      "lunch": {
+        "name": "Grilled Mackerel with Banku",
+        "ingredients": ["6 oz mackerel", "1 cup fermented corn dough", "2 tomatoes", "2 scotch bonnet peppers", "1 onion", "Fresh ginger"],
+        "calories": 480,
+        "protein": "34g",
+        "fiber": "8g",
+        "prep_time": "30 mins",
+        "instructions": ["Prepare banku from fermented corn dough", "Season mackerel with ginger and salt", "Grill mackerel until charred and flaky", "Blend tomatoes, peppers, onions for pepper sauce", "Serve mackerel with banku and pepper sauce"],
+        "benefits": "Omega-3 fats, probiotics from fermented dough, capsaicin boost"
+      },
+      "snack": {
+        "name": "Roasted Groundnuts & Orange",
+        "ingredients": ["3 tbsp roasted groundnuts", "1 large orange, segmented"],
+        "calories": 175,
+        "protein": "8g",
+        "fiber": "5g",
+        "prep_time": "3 mins",
+        "instructions": ["Peel and segment orange", "Pair with roasted groundnuts", "Enjoy as afternoon snack"],
+        "benefits": "Vitamin C enhances iron absorption, healthy fats, fiber"
+      }
+    },
+    "day_2": {
+      "breakfast": {
+        "name": "Cocoyam & Egg Stew",
+        "ingredients": ["1 cup cocoyam, boiled", "2 eggs, boiled", "1 tomato, diced", "1 onion", "1 tsp palm oil (minimal)", "Fresh pepper"],
+        "calories": 370,
+        "protein": "20g",
+        "fiber": "10g",
+        "prep_time": "20 mins",
+        "instructions": ["Boil cocoyam until tender", "Boil eggs to desired doneness", "Make light stew with tomato, onion, palm oil", "Serve cocoyam and eggs with stew"],
+        "benefits": "Vitamin E from palm oil, complete protein, resistant starch"
+      },
+      "lunch": {
+        "name": "Chicken & Kontomire Stew",
+        "ingredients": ["6 oz chicken breast", "2 cups kontomire", "2 tomatoes", "1 onion", "2 cloves garlic", "1 tsp coconut oil"],
+        "calories": 460,
+        "protein": "38g",
+        "fiber": "11g",
+        "prep_time": "28 mins",
+        "instructions": ["Season and grill chicken breast", "Sauté onions and garlic in coconut oil", "Add blended tomatoes, cook 8 mins", "Add kontomire, simmer until tender", "Slice chicken and serve over stew"],
+        "benefits": "Lean protein, folate from kontomire, lycopene from tomatoes"
+      },
+      "snack": {
+        "name": "Mango & Coconut Smoothie",
+        "ingredients": ["1 cup mango chunks", "1/2 cup coconut milk", "1 tsp chia seeds", "Ice cubes"],
+        "calories": 165,
+        "protein": "4g",
+        "fiber": "6g",
+        "prep_time": "5 mins",
+        "instructions": ["Blend mango with coconut milk until smooth", "Add ice and blend again", "Top with chia seeds", "Serve immediately"],
+        "benefits": "Vitamin A, healthy fats, omega-3 from chia seeds"
+      }
+    },
+    "day_3": {
+      "breakfast": {
+        "name": "Brown Rice & Bean Porridge",
+        "ingredients": ["1/2 cup brown rice", "1/4 cup black-eyed peas", "1 onion", "1 tsp ginger", "Fresh thyme"],
+        "calories": 345,
+        "protein": "16g",
+        "fiber": "11g",
+        "prep_time": "25 mins",
+        "instructions": ["Cook brown rice and beans together until soft", "Sauté onions and ginger", "Mix into rice and beans", "Season with thyme, salt, pepper"],
+        "benefits": "Complete plant protein, B vitamins, sustained energy"
+      },
+      "lunch": {
+        "name": "Sardine & Plantain Bowl",
+        "ingredients": ["1 can sardines in olive oil", "1 ripe plantain", "2 cups mixed greens", "1 avocado", "1 lime"],
+        "calories": 490,
+        "protein": "30g",
+        "fiber": "12g",
+        "prep_time": "15 mins",
+        "instructions": ["Slice and pan-fry plantain until golden", "Arrange mixed greens in bowl", "Top with sardines and sliced avocado", "Add plantain on the side", "Squeeze lime over everything"],
+        "benefits": "Omega-3, calcium from sardine bones, potassium, healthy fats"
+      },
+      "snack": {
+        "name": "Tiger Nut Milk",
+        "ingredients": ["1/4 cup tiger nuts (soaked overnight)", "1 cup water", "1/2 tsp vanilla", "Pinch of cinnamon"],
+        "calories": 145,
+        "protein": "5g",
+        "fiber": "7g",
+        "prep_time": "10 mins",
+        "instructions": ["Blend soaked tiger nuts with water", "Strain through cheesecloth or fine mesh", "Add vanilla and cinnamon", "Serve chilled"],
+        "benefits": "Prebiotic fiber, vitamin E, natural aphrodisiac properties"
+      }
+    },
+    "day_4": {
+      "breakfast": {
+        "name": "Spinach & Sardine Toast",
+        "ingredients": ["2 slices whole grain bread", "1 can sardines", "1 cup spinach", "1 tomato", "1 lemon"],
+        "calories": 355,
+        "protein": "26g",
+        "fiber": "7g",
+        "prep_time": "10 mins",
+        "instructions": ["Toast whole grain bread", "Mash sardines with lemon juice", "Wilt spinach briefly in pan", "Top toast with spinach and sardines", "Add sliced tomato on top"],
+        "benefits": "Omega-3, calcium, iron, fiber from whole grains"
+      },
+      "lunch": {
+        "name": "Groundnut Soup with Chicken",
+        "ingredients": ["6 oz chicken thigh", "3 tbsp groundnut paste", "2 tomatoes", "1 onion", "Fresh ginger", "1 cup spinach"],
+        "calories": 510,
+        "protein": "36g",
+        "fiber": "8g",
+        "prep_time": "35 mins",
+        "instructions": ["Boil chicken with ginger and onion until cooked", "Blend tomatoes and add to broth", "Stir in groundnut paste, simmer 15 mins", "Add spinach in last 2 mins", "Serve soup with chicken pieces"],
+        "benefits": "High protein, healthy fats, zinc for testosterone production"
+      },
+      "snack": {
+        "name": "Banana & Groundnut Butter",
+        "ingredients": ["1 banana", "2 tbsp natural groundnut butter"],
+        "calories": 185,
+        "protein": "7g",
+        "fiber": "5g",
+        "prep_time": "3 mins",
+        "instructions": ["Slice banana", "Spread or dip in groundnut butter", "Enjoy immediately"],
+        "benefits": "Quick energy, potassium, healthy fats, tryptophan for sleep"
+      }
+    },
+    "day_5": {
+      "breakfast": {
+        "name": "Yam Porridge with Vegetables",
+        "ingredients": ["1 cup yam, diced", "1/2 cup spinach", "1 carrot, grated", "1 onion", "1 tsp palm oil", "Fresh pepper"],
+        "calories": 340,
+        "protein": "12g",
+        "fiber": "10g",
+        "prep_time": "22 mins",
+        "instructions": ["Boil yam cubes until very soft", "Mash slightly in the pot", "Add sautéed onions, carrots, pepper", "Stir in spinach and palm oil", "Cook 3 more mins and serve"],
+        "benefits": "Complex carbs, beta-carotene, vitamin E from palm oil"
+      },
+      "lunch": {
+        "name": "Grilled Turkey with Jollof Rice",
+        "ingredients": ["6 oz turkey breast", "1/2 cup rice", "3 tomatoes, blended", "1 onion", "1 tsp thyme", "1 bay leaf"],
+        "calories": 475,
+        "protein": "35g",
+        "fiber": "6g",
+        "prep_time": "35 mins",
+        "instructions": ["Season turkey with thyme and grill until done", "Sauté onions, add blended tomatoes", "Cook tomato base 10 mins", "Add rice and water, cook until done", "Serve jollof rice with sliced turkey"],
+        "benefits": "Lean protein, lycopene, B vitamins from rice"
+      },
+      "snack": {
+        "name": "Papaya & Lime Bowl",
+        "ingredients": ["1.5 cups papaya, cubed", "1 lime, juiced", "1 tbsp coconut flakes", "Fresh mint"],
+        "calories": 130,
+        "protein": "3g",
+        "fiber": "6g",
+        "prep_time": "5 mins",
+        "instructions": ["Cube fresh papaya", "Squeeze lime juice over top", "Sprinkle coconut flakes", "Garnish with mint"],
+        "benefits": "Papain enzyme for digestion, vitamin C, hydration"
+      }
+    },
+    "day_6": {
+      "breakfast": {
+        "name": "Oats & Groundnut Porridge",
+        "ingredients": ["1/2 cup rolled oats", "2 tbsp groundnut paste", "1 banana", "1/2 tsp cinnamon", "1 cup water"],
+        "calories": 365,
+        "protein": "15g",
+        "fiber": "8g",
+        "prep_time": "12 mins",
+        "instructions": ["Cook oats in water until creamy", "Stir in groundnut paste", "Slice banana on top", "Sprinkle cinnamon and serve"],
+        "benefits": "Beta-glucan for cholesterol, sustained energy, magnesium"
+      },
+      "lunch": {
+        "name": "Fish & Okra Soup",
+        "ingredients": ["6 oz tilapia", "1 cup okra, chopped", "2 tomatoes", "1 onion", "Fresh pepper", "Palm oil (1 tsp)"],
+        "calories": 430,
+        "protein": "34g",
+        "fiber": "12g",
+        "prep_time": "28 mins",
+        "instructions": ["Prepare fish stock with onion and pepper", "Add chopped okra to stock", "Blend and add tomatoes", "Add fish pieces, simmer gently 10 mins", "Season with palm oil and salt"],
+        "benefits": "Omega-3, mucilage fiber from okra, lean protein"
+      },
+      "snack": {
+        "name": "Avocado & Lime Dip with Plantain",
+        "ingredients": ["1/2 avocado", "1 lime", "1/2 green plantain", "Pinch of salt"],
+        "calories": 180,
+        "protein": "4g",
+        "fiber": "8g",
+        "prep_time": "12 mins",
+        "instructions": ["Mash avocado with lime juice and salt", "Slice plantain thinly and bake until crispy", "Dip plantain chips in avocado"],
+        "benefits": "Healthy monounsaturated fats, potassium, resistant starch"
+      }
+    },
+    "day_7": {
+      "breakfast": {
+        "name": "Cassava Pancakes with Eggs",
+        "ingredients": ["1/2 cup cassava flour", "2 eggs", "1/2 cup coconut milk", "1 tsp coconut oil", "Pinch of salt"],
+        "calories": 375,
+        "protein": "18g",
+        "fiber": "6g",
+        "prep_time": "15 mins",
+        "instructions": ["Mix cassava flour with coconut milk and salt", "Heat coconut oil in pan", "Pour batter to make small pancakes", "Cook 2-3 mins each side", "Serve with scrambled eggs on the side"],
+        "benefits": "Gluten-free energy, complete protein from eggs, MCTs"
+      },
+      "lunch": {
+        "name": "Chicken & Sweet Potato Stew",
+        "ingredients": ["6 oz chicken breast", "1 sweet potato, cubed", "2 tomatoes", "1 onion", "Fresh thyme", "1 cup spinach"],
+        "calories": 465,
+        "protein": "36g",
+        "fiber": "11g",
+        "prep_time": "30 mins",
+        "instructions": ["Season and brown chicken pieces", "Add onions and tomatoes, cook 5 mins", "Add sweet potato cubes and water", "Simmer until potato is tender (15 mins)", "Add spinach and thyme, cook 2 more mins"],
+        "benefits": "Lean protein, beta-carotene, iron, complex carbs"
+      },
+      "snack": {
+        "name": "Coconut Water & Tiger Nuts",
+        "ingredients": ["1 cup fresh coconut water", "3 tbsp tiger nuts (soaked)"],
+        "calories": 155,
+        "protein": "5g",
+        "fiber": "6g",
+        "prep_time": "3 mins",
+        "instructions": ["Pour fresh coconut water into glass", "Enjoy alongside soaked tiger nuts", "Perfect post-workout recovery snack"],
+        "benefits": "Electrolyte replenishment, prebiotic fiber, natural energy"
+      }
+    }
+  },
+
+  "week_3": {
+    "day_1": {
+      "breakfast": {
+        "name": "Sorghum Porridge with Coconut",
+        "ingredients": ["1/2 cup sorghum flour", "1/2 cup coconut milk", "1 tbsp honey", "1/2 tsp ginger", "Groundnuts for topping"],
+        "calories": 350,
+        "protein": "12g",
+        "fiber": "9g",
+        "prep_time": "15 mins",
+        "instructions": ["Mix sorghum flour with water to paste", "Cook on medium heat stirring constantly", "Add coconut milk and ginger", "Drizzle honey and top with groundnuts"],
+        "benefits": "Gluten-free whole grain, iron, slow-release energy"
+      },
+      "lunch": {
+        "name": "Grilled Tilapia with Kontomire",
+        "ingredients": ["6 oz tilapia", "2 cups kontomire", "2 tomatoes", "1 onion", "Fresh ginger", "1 lemon"],
+        "calories": 440,
+        "protein": "36g",
+        "fiber": "10g",
+        "prep_time": "25 mins",
+        "instructions": ["Season tilapia with ginger and lemon", "Grill until flaky (4-5 mins each side)", "Sauté kontomire with onions and tomatoes", "Season with salt and pepper", "Serve fish with kontomire stew"],
+        "benefits": "Omega-3, folate, iron, lean protein combination"
+      },
+      "snack": {
+        "name": "Roasted Coconut Chips",
+        "ingredients": ["1/2 fresh coconut, sliced thin", "Pinch of sea salt", "1/2 tsp cinnamon"],
+        "calories": 160,
+        "protein": "4g",
+        "fiber": "6g",
+        "prep_time": "15 mins",
+        "instructions": ["Slice coconut meat thinly", "Sprinkle with salt and cinnamon", "Bake at 325°F for 10-12 mins", "Cool and enjoy crispy"],
+        "benefits": "MCTs for brain fuel, lauric acid, fiber"
+      }
+    },
+    "day_2": {
+      "breakfast": {
+        "name": "Plantain & Groundnut Pancakes",
+        "ingredients": ["1 ripe plantain", "2 tbsp groundnut flour", "1 egg", "1/2 tsp cinnamon", "Coconut oil for cooking"],
+        "calories": 340,
+        "protein": "14g",
+        "fiber": "7g",
+        "prep_time": "15 mins",
+        "instructions": ["Mash ripe plantain until smooth", "Mix in groundnut flour, egg, cinnamon", "Heat coconut oil in pan", "Drop spoonfuls of batter, flatten slightly", "Cook 2-3 mins each side until golden"],
+        "benefits": "Natural sweetness, protein, potassium, healthy fats"
+      },
+      "lunch": {
+        "name": "Turkey Kebabs with Brown Rice",
+        "ingredients": ["6 oz turkey breast, cubed", "1 bell pepper", "1 onion", "1/2 cup brown rice", "1 tsp suya spice", "Coconut oil"],
+        "calories": 470,
+        "protein": "36g",
+        "fiber": "7g",
+        "prep_time": "28 mins",
+        "instructions": ["Cube turkey and season with suya spice", "Cut vegetables into chunks", "Thread onto skewers alternating meat and veg", "Grill 4-5 mins each side", "Serve with cooked brown rice"],
+        "benefits": "Lean protein, capsaicin from spice, complex carbs"
+      },
+      "snack": {
+        "name": "Fresh Pineapple & Ginger",
+        "ingredients": ["1.5 cups pineapple chunks", "1 tsp fresh ginger, grated", "Fresh mint"],
+        "calories": 120,
+        "protein": "2g",
+        "fiber": "4g",
+        "prep_time": "5 mins",
+        "instructions": ["Cut fresh pineapple into chunks", "Grate fresh ginger over top", "Garnish with mint leaves", "Serve chilled"],
+        "benefits": "Bromelain for inflammation, gingerol for digestion"
+      }
+    },
+    "day_3": {
+      "breakfast": {
+        "name": "Sweet Potato & Egg Muffins",
+        "ingredients": ["1 sweet potato, grated", "3 eggs", "1/2 cup spinach, chopped", "1 onion, diced", "1/2 tsp nutmeg"],
+        "calories": 330,
+        "protein": "22g",
+        "fiber": "8g",
+        "prep_time": "25 mins",
+        "instructions": ["Grate sweet potato and squeeze out moisture", "Mix with beaten eggs, spinach, onion, nutmeg", "Divide into muffin tin (makes 6)", "Bake at 375°F for 18-20 mins", "Cool slightly before serving"],
+        "benefits": "Meal prep friendly, beta-carotene, complete protein"
+      },
+      "lunch": {
+        "name": "Black-Eyed Peas & Mackerel",
+        "ingredients": ["1 cup black-eyed peas (cooked)", "4 oz smoked mackerel", "2 tomatoes", "1 onion", "Fresh pepper", "1 tsp coconut oil"],
+        "calories": 460,
+        "protein": "32g",
+        "fiber": "14g",
+        "prep_time": "20 mins",
+        "instructions": ["Flake smoked mackerel into pieces", "Sauté onions and tomatoes in coconut oil", "Add black-eyed peas and pepper", "Fold in mackerel gently", "Simmer 5 mins and serve"],
+        "benefits": "Zinc from legumes, omega-3, plant and animal protein combo"
+      },
+      "snack": {
+        "name": "Watermelon Juice",
+        "ingredients": ["2 cups watermelon", "1 lime", "Fresh mint", "Ice"],
+        "calories": 100,
+        "protein": "2g",
+        "fiber": "2g",
+        "prep_time": "5 mins",
+        "instructions": ["Blend watermelon chunks with ice", "Squeeze in lime juice", "Strain if desired", "Garnish with mint"],
+        "benefits": "Citrulline for blood flow, hydration, lycopene"
+      }
+    },
+    "day_4": {
+      "breakfast": {
+        "name": "Millet & Moringa Porridge",
+        "ingredients": ["1/2 cup millet", "1 tbsp moringa powder", "1/2 cup coconut milk", "1 tbsp honey", "Groundnuts"],
+        "calories": 355,
+        "protein": "16g",
+        "fiber": "10g",
+        "prep_time": "18 mins",
+        "instructions": ["Cook millet until soft and creamy", "Stir in moringa powder and coconut milk", "Drizzle with honey", "Top with crushed groundnuts"],
+        "benefits": "Moringa is nutrient-dense superfood, iron, calcium, protein"
+      },
+      "lunch": {
+        "name": "Grilled Chicken & Yam Chips",
+        "ingredients": ["6 oz chicken breast", "1 cup yam, cut into chips", "1 tsp coconut oil", "Mixed herbs", "1 cup salad greens"],
+        "calories": 480,
+        "protein": "38g",
+        "fiber": "9g",
+        "prep_time": "30 mins",
+        "instructions": ["Season chicken with herbs, grill 6-7 mins each side", "Cut yam into chip shapes", "Toss with coconut oil and bake 20 mins at 400°F", "Serve chicken with yam chips and salad"],
+        "benefits": "Lean protein, complex carbs, fiber from greens"
+      },
+      "snack": {
+        "name": "Avocado & Lime Cup",
+        "ingredients": ["1/2 avocado", "1 lime", "Pinch of chili flakes", "Sea salt"],
+        "calories": 160,
+        "protein": "3g",
+        "fiber": "7g",
+        "prep_time": "3 mins",
+        "instructions": ["Halve avocado and remove pit", "Squeeze lime juice into cavity", "Sprinkle chili flakes and salt", "Eat with spoon directly from skin"],
+        "benefits": "Monounsaturated fats, potassium, vitamin E"
+      }
+    },
+    "day_5": {
+      "breakfast": {
+        "name": "Boiled Yam & Egg Sauce",
+        "ingredients": ["1 cup yam, boiled", "2 eggs", "2 tomatoes", "1 onion", "Fresh pepper", "1 tsp coconut oil"],
+        "calories": 370,
+        "protein": "20g",
+        "fiber": "8g",
+        "prep_time": "20 mins",
+        "instructions": ["Boil yam until tender", "Sauté onions and tomatoes in coconut oil", "Add pepper and cook 3 mins", "Crack eggs into sauce, scramble", "Serve egg sauce over boiled yam"],
+        "benefits": "Complex carbs for energy, complete protein, lycopene"
+      },
+      "lunch": {
+        "name": "Sardine & Vegetable Stir-fry",
+        "ingredients": ["1 can sardines", "1 cup cabbage, shredded", "1 carrot, julienned", "1 bell pepper", "2 cloves garlic", "Soy sauce (1 tsp)"],
+        "calories": 420,
+        "protein": "30g",
+        "fiber": "8g",
+        "prep_time": "15 mins",
+        "instructions": ["Heat pan and sauté garlic", "Add cabbage, carrot, bell pepper", "Stir-fry on high heat 3-4 mins", "Add sardines and soy sauce", "Toss gently and serve immediately"],
+        "benefits": "Omega-3, calcium, cruciferous vegetables for detox"
+      },
+      "snack": {
+        "name": "Groundnut & Date Balls",
+        "ingredients": ["1/4 cup groundnuts", "4 dates, pitted", "1 tbsp coconut flakes", "Pinch of salt"],
+        "calories": 175,
+        "protein": "7g",
+        "fiber": "5g",
+        "prep_time": "10 mins",
+        "instructions": ["Blend groundnuts and dates in processor", "Add coconut flakes and salt", "Roll into small balls", "Refrigerate 10 mins before eating"],
+        "benefits": "Natural energy, iron from dates, healthy fats"
+      }
+    },
+    "day_6": {
+      "breakfast": {
+        "name": "Coconut Rice & Beans",
+        "ingredients": ["1/2 cup rice", "1/4 cup cowpeas", "1/2 cup coconut milk", "1 onion", "Bay leaf", "Fresh thyme"],
+        "calories": 380,
+        "protein": "16g",
+        "fiber": "11g",
+        "prep_time": "30 mins",
+        "instructions": ["Cook cowpeas until almost tender", "Add rice, coconut milk, and water", "Season with onion, bay leaf, thyme", "Cook until rice is fluffy", "Serve warm"],
+        "benefits": "Complete plant protein, MCTs, B vitamins"
+      },
+      "lunch": {
+        "name": "Grilled Fish & Garden Egg Salad",
+        "ingredients": ["6 oz tilapia", "4 garden eggs, roasted", "2 tomatoes", "1 onion", "Fresh pepper", "Groundnut oil (1 tsp)"],
+        "calories": 440,
+        "protein": "34g",
+        "fiber": "10g",
+        "prep_time": "25 mins",
+        "instructions": ["Season and grill tilapia", "Roast garden eggs until soft", "Mash garden eggs with tomatoes and onion", "Season with pepper and groundnut oil", "Serve fish with garden egg salad"],
+        "benefits": "Lean protein, antioxidants, healthy fats"
+      },
+      "snack": {
+        "name": "Mango & Ginger Smoothie",
+        "ingredients": ["1 cup mango", "1 tsp fresh ginger", "1/2 cup coconut water", "Ice"],
+        "calories": 135,
+        "protein": "2g",
+        "fiber": "4g",
+        "prep_time": "5 mins",
+        "instructions": ["Blend mango with ginger and coconut water", "Add ice and blend until smooth", "Serve immediately"],
+        "benefits": "Vitamin A, anti-inflammatory ginger, electrolytes"
+      }
+    },
+    "day_7": {
+      "breakfast": {
+        "name": "Plantain & Bean Stew",
+        "ingredients": ["1 ripe plantain", "1/2 cup black-eyed peas (cooked)", "1 tomato", "1 onion", "1 tsp palm oil", "Fresh pepper"],
+        "calories": 365,
+        "protein": "14g",
+        "fiber": "12g",
+        "prep_time": "20 mins",
+        "instructions": ["Slice and fry plantain until golden", "Sauté onions and tomatoes with palm oil", "Add black-eyed peas and pepper", "Simmer 10 mins", "Serve plantain with bean stew"],
+        "benefits": "Potassium, plant protein, vitamin E, fiber"
+      },
+      "lunch": {
+        "name": "Chicken & Cabbage Stir-fry",
+        "ingredients": ["6 oz chicken breast", "2 cups cabbage, shredded", "1 carrot", "1 onion", "2 cloves garlic", "1 tsp ginger"],
+        "calories": 430,
+        "protein": "36g",
+        "fiber": "8g",
+        "prep_time": "20 mins",
+        "instructions": ["Slice chicken and season with ginger", "Stir-fry chicken on high heat until done", "Add garlic, onion, cabbage, carrot", "Cook 3-4 mins keeping vegetables crisp", "Season with salt and pepper"],
+        "benefits": "Lean protein, cruciferous vegetables, anti-inflammatory"
+      },
+      "snack": {
+        "name": "Tiger Nut & Banana Shake",
+        "ingredients": ["3 tbsp tiger nuts (soaked)", "1 banana", "1 cup water", "1/2 tsp vanilla"],
+        "calories": 185,
+        "protein": "6g",
+        "fiber": "7g",
+        "prep_time": "8 mins",
+        "instructions": ["Blend soaked tiger nuts with water", "Add banana and vanilla", "Blend until smooth and creamy", "Serve chilled"],
+        "benefits": "Prebiotic fiber, potassium, natural sweetness, energy"
+      }
+    }
+  },
+
+  "week_4": {
+    "day_1": {
+      "breakfast": {
+        "name": "Quinoa & Moringa Bowl",
+        "ingredients": ["1/2 cup quinoa", "1 tbsp moringa powder", "1/2 avocado", "1 egg, boiled", "1 tsp coconut oil"],
+        "calories": 380,
+        "protein": "20g",
+        "fiber": "10g",
+        "prep_time": "18 mins",
+        "instructions": ["Cook quinoa according to package", "Stir in moringa powder", "Top with sliced avocado and boiled egg", "Drizzle coconut oil and season"],
+        "benefits": "Complete protein from quinoa, superfood moringa, healthy fats"
+      },
+      "lunch": {
+        "name": "Grilled Mackerel & Jollof",
+        "ingredients": ["6 oz mackerel", "1/2 cup rice", "3 tomatoes", "1 onion", "1 scotch bonnet", "Fresh thyme"],
+        "calories": 490,
+        "protein": "34g",
+        "fiber": "7g",
+        "prep_time": "35 mins",
+        "instructions": ["Season mackerel and grill until charred", "Blend tomatoes with pepper and onion", "Cook tomato base 10 mins", "Add rice and water, cook until done", "Serve jollof with grilled mackerel"],
+        "benefits": "Omega-3, lycopene, complex carbs, lean protein"
+      },
+      "snack": {
+        "name": "Coconut & Groundnut Energy Balls",
+        "ingredients": ["3 tbsp groundnuts", "2 tbsp coconut flakes", "3 dates", "1 tbsp cocoa powder"],
+        "calories": 190,
+        "protein": "8g",
+        "fiber": "5g",
+        "prep_time": "10 mins",
+        "instructions": ["Process groundnuts and dates together", "Mix in coconut and cocoa powder", "Roll into small balls", "Refrigerate before serving"],
+        "benefits": "Antioxidants from cocoa, healthy fats, natural energy"
+      }
+    },
+    "day_2": {
+      "breakfast": {
+        "name": "Omelette with Garden Eggs",
+        "ingredients": ["3 eggs", "2 garden eggs, diced", "1 tomato", "1 onion", "Fresh basil", "1 tsp coconut oil"],
+        "calories": 340,
+        "protein": "24g",
+        "fiber": "6g",
+        "prep_time": "12 mins",
+        "instructions": ["Dice garden eggs and sauté until soft", "Add tomatoes and onions", "Beat eggs and pour over vegetables", "Cook until set, fold in half", "Garnish with fresh basil"],
+        "benefits": "Complete protein, antioxidants, low-carb energy"
+      },
+      "lunch": {
+        "name": "Cowpea Curry with Plantain",
+        "ingredients": ["1 cup cowpeas (cooked)", "1 ripe plantain", "1/2 cup coconut milk", "1 tsp curry powder", "1 onion", "Fresh ginger"],
+        "calories": 470,
+        "protein": "20g",
+        "fiber": "15g",
+        "prep_time": "25 mins",
+        "instructions": ["Sauté onions and ginger with curry powder", "Add coconut milk and cowpeas", "Simmer 15 mins until thick", "Slice and fry plantain separately", "Serve curry with fried plantain"],
+        "benefits": "Plant protein, anti-inflammatory turmeric in curry, potassium"
+      },
+      "snack": {
+        "name": "Fresh Fruit Salad",
+        "ingredients": ["1/2 cup papaya", "1/2 cup pineapple", "1/2 cup watermelon", "1 lime", "Fresh mint"],
+        "calories": 120,
+        "protein": "2g",
+        "fiber": "4g",
+        "prep_time": "8 mins",
+        "instructions": ["Cube all fruits into bowl", "Squeeze lime juice over top", "Toss gently", "Garnish with mint leaves"],
+        "benefits": "Vitamin C, digestive enzymes, hydration, antioxidants"
+      }
+    },
+    "day_3": {
+      "breakfast": {
+        "name": "Millet & Egg Scramble",
+        "ingredients": ["1/2 cup cooked millet", "2 eggs", "1 cup spinach", "1 onion", "1 tsp coconut oil", "Fresh pepper"],
+        "calories": 350,
+        "protein": "20g",
+        "fiber": "8g",
+        "prep_time": "15 mins",
+        "instructions": ["Heat coconut oil and sauté onions", "Add cooked millet and toast slightly", "Add spinach until wilted", "Scramble eggs into mixture", "Season with pepper and salt"],
+        "benefits": "Whole grain energy, complete protein, iron from spinach"
+      },
+      "lunch": {
+        "name": "Tilapia Pepper Soup",
+        "ingredients": ["6 oz tilapia", "2 tomatoes", "1 onion", "Fresh ginger", "Uziza leaves (or basil)", "Scotch bonnet pepper"],
+        "calories": 380,
+        "protein": "35g",
+        "fiber": "6g",
+        "prep_time": "25 mins",
+        "instructions": ["Boil water with ginger, onion, pepper for broth", "Add tomatoes and cook 5 mins", "Gently add tilapia pieces", "Simmer 10 mins until fish is cooked", "Add uziza leaves and serve hot"],
+        "benefits": "Light yet protein-rich, anti-inflammatory, metabolism boost"
+      },
+      "snack": {
+        "name": "Roasted Plantain & Groundnuts",
+        "ingredients": ["1/2 ripe plantain", "2 tbsp roasted groundnuts", "Pinch of salt"],
+        "calories": 170,
+        "protein": "7g",
+        "fiber": "5g",
+        "prep_time": "12 mins",
+        "instructions": ["Roast plantain over open flame or in oven", "Peel when slightly charred", "Serve with roasted groundnuts", "Sprinkle salt to taste"],
+        "benefits": "Traditional snack, potassium, healthy fats, fiber"
+      }
+    },
+    "day_4": {
+      "breakfast": {
+        "name": "Cassava Porridge with Fish",
+        "ingredients": ["1/2 cup cassava flour", "4 oz smoked fish", "1 onion", "1 tomato", "Fresh pepper", "1 cup spinach"],
+        "calories": 370,
+        "protein": "24g",
+        "fiber": "7g",
+        "prep_time": "20 mins",
+        "instructions": ["Mix cassava flour with water to smooth paste", "Cook on medium heat stirring constantly", "Flake smoked fish and sauté with onion, tomato", "Add spinach to fish mixture", "Serve porridge topped with fish stew"],
+        "benefits": "Energy-dense carbs, omega-3 from fish, iron"
+      },
+      "lunch": {
+        "name": "Chicken & Okra Soup",
+        "ingredients": ["6 oz chicken breast", "1 cup okra, sliced", "2 tomatoes", "1 onion", "Fresh ginger", "Palm oil (1 tsp)"],
+        "calories": 450,
+        "protein": "38g",
+        "fiber": "11g",
+        "prep_time": "30 mins",
+        "instructions": ["Boil chicken with ginger until cooked", "Remove chicken and shred", "Add okra and tomatoes to broth", "Simmer 10 mins", "Return chicken, add palm oil, serve"],
+        "benefits": "Lean protein, soluble fiber, vitamin E, gut health"
+      },
+      "snack": {
+        "name": "Coconut Water & Dates",
+        "ingredients": ["1 cup fresh coconut water", "4 dates", "2 tbsp groundnuts"],
+        "calories": 180,
+        "protein": "5g",
+        "fiber": "6g",
+        "prep_time": "3 mins",
+        "instructions": ["Pour fresh coconut water", "Enjoy alongside dates and groundnuts", "Perfect pre or post workout snack"],
+        "benefits": "Natural electrolytes, iron from dates, quick energy"
+      }
+    },
+    "day_5": {
+      "breakfast": {
+        "name": "Avocado & Egg Toast",
+        "ingredients": ["2 slices whole grain bread", "1/2 avocado", "2 eggs", "Cherry tomatoes", "Fresh pepper", "Lime juice"],
+        "calories": 380,
+        "protein": "20g",
+        "fiber": "10g",
+        "prep_time": "10 mins",
+        "instructions": ["Toast bread until golden", "Mash avocado with lime juice and pepper", "Spread on toast", "Fry or poach eggs", "Top toast with eggs and halved tomatoes"],
+        "benefits": "Healthy fats, complete protein, fiber, vitamin E"
+      },
+      "lunch": {
+        "name": "Grilled Turkey & Vegetable Bowl",
+        "ingredients": ["6 oz turkey breast", "1 cup brown rice", "1 cup mixed vegetables", "1 avocado", "Lemon dressing"],
+        "calories": 490,
+        "protein": "36g",
+        "fiber": "12g",
+        "prep_time": "30 mins",
+        "instructions": ["Season and grill turkey breast", "Cook brown rice", "Steam or roast mixed vegetables", "Assemble bowl with rice base", "Top with sliced turkey, vegetables, avocado"],
+        "benefits": "Lean protein, complex carbs, healthy fats, fiber"
+      },
+      "snack": {
+        "name": "Pineapple & Coconut Popsicle",
+        "ingredients": ["1 cup pineapple", "1/2 cup coconut milk", "1 tsp honey"],
+        "calories": 140,
+        "protein": "2g",
+        "fiber": "3g",
+        "prep_time": "5 mins + freeze time",
+        "instructions": ["Blend pineapple with coconut milk and honey", "Pour into popsicle molds", "Freeze 4+ hours", "Run under warm water to release"],
+        "benefits": "Refreshing, bromelain, MCTs, natural sweetness"
+      }
+    },
+    "day_6": {
+      "breakfast": {
+        "name": "Groundnut Soup & Yam",
+        "ingredients": ["3 tbsp groundnut paste", "1 cup yam, boiled", "1 tomato", "1 onion", "Fresh ginger", "1 cup spinach"],
+        "calories": 400,
+        "protein": "18g",
+        "fiber": "10g",
+        "prep_time": "25 mins",
+        "instructions": ["Boil yam until tender", "Sauté onion, add tomato and ginger", "Stir in groundnut paste with water", "Simmer until thick", "Add spinach, serve with yam"],
+        "benefits": "Healthy fats, complex carbs, iron, zinc"
+      },
+      "lunch": {
+        "name": "Fish & Brown Rice Bowl",
+        "ingredients": ["6 oz grilled tilapia", "1/2 cup brown rice", "1 cup steamed vegetables", "1 tbsp coconut oil", "Lemon-ginger dressing"],
+        "calories": 460,
+        "protein": "34g",
+        "fiber": "9g",
+        "prep_time": "28 mins",
+        "instructions": ["Cook brown rice", "Season and grill tilapia", "Steam broccoli, carrots, green beans", "Assemble bowl", "Drizzle with lemon-ginger dressing"],
+        "benefits": "Omega-3, complex carbs, fiber, anti-inflammatory"
+      },
+      "snack": {
+        "name": "Banana & Cinnamon Bites",
+        "ingredients": ["1 banana", "1 tbsp groundnut butter", "1/2 tsp cinnamon", "1 tbsp coconut flakes"],
+        "calories": 165,
+        "protein": "5g",
+        "fiber": "4g",
+        "prep_time": "5 mins",
+        "instructions": ["Slice banana into rounds", "Spread groundnut butter on each", "Sprinkle cinnamon and coconut", "Enjoy immediately or freeze for later"],
+        "benefits": "Quick energy, blood sugar regulation from cinnamon"
+      }
+    },
+    "day_7": {
+      "breakfast": {
+        "name": "Celebration Waakye",
+        "ingredients": ["1/2 cup rice", "1/4 cup black-eyed peas", "Millet leaves (for color)", "2 eggs, boiled", "1 tbsp shito (pepper sauce)"],
+        "calories": 390,
+        "protein": "22g",
+        "fiber": "11g",
+        "prep_time": "30 mins",
+        "instructions": ["Cook rice and beans with millet leaves for color", "Boil eggs to desired doneness", "Prepare or use ready-made shito", "Serve waakye with eggs and shito", "Traditional Ghanaian celebration meal"],
+        "benefits": "Complete protein, iron, B vitamins, cultural significance"
+      },
+      "lunch": {
+        "name": "Grilled Chicken Feast",
+        "ingredients": ["8 oz chicken breast", "1 sweet potato", "2 cups mixed salad", "1 avocado", "Groundnut dressing"],
+        "calories": 520,
+        "protein": "42g",
+        "fiber": "14g",
+        "prep_time": "35 mins",
+        "instructions": ["Season chicken generously and grill", "Roast sweet potato wedges", "Prepare fresh salad with avocado", "Make dressing from groundnut paste and lime", "Assemble celebration plate"],
+        "benefits": "High protein finale, healthy fats, fiber, vitamins"
+      },
+      "snack": {
+        "name": "Tiger Nut & Fruit Parfait",
+        "ingredients": ["3 tbsp tiger nuts (soaked)", "1/2 cup mixed fruits", "2 tbsp coconut yogurt", "1 tsp honey"],
+        "calories": 195,
+        "protein": "6g",
+        "fiber": "7g",
+        "prep_time": "8 mins",
+        "instructions": ["Layer coconut yogurt in glass", "Add mixed fruits", "Top with tiger nuts", "Drizzle honey over top"],
+        "benefits": "Probiotics, prebiotic fiber, vitamins, celebration treat"
+      }
+    }
+  }
+}
