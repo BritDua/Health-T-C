@@ -20,7 +20,10 @@ if (!MONGODB_URI) {
 }
 
 async function seed() {
-    const client = new MongoClient(MONGODB_URI);
+    const client = new MongoClient(MONGODB_URI, {
+        serverSelectionTimeoutMS: 15000,
+        connectTimeoutMS: 15000
+    });
 
     try {
         console.log('🔌 Connecting to MongoDB Atlas...');
