@@ -1,0 +1,20 @@
+{
+  "name": "ghana-health-app",
+  "version": "1.0.0",
+  "description": "30-day Ghanaian meal plan and 4-week workout program",
+  "private": true,
+  "scripts": {
+    "seed": "node scripts/seed-db.js",
+    "dev": "vercel dev",
+    "build": "echo 'Static build - no build step needed'"
+  },
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BritDua/Health-T-C.git"
+  },
+  "author": "BritDua",
+  "license": "ISC"
+}

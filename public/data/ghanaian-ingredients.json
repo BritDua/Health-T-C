@@ -1,0 +1,28 @@
+{
+  "proteins": {
+    "fish": ["tilapia", "mackerel", "sardines", "tuna", "salmon"],
+    "poultry": ["chicken_breast", "turkey", "guinea_fowl"],
+    "legumes": ["black_eyed_peas", "cowpeas", "groundnuts", "soybeans"],
+    "eggs": ["chicken_eggs", "guinea_fowl_eggs"]
+  },
+  "vegetables": {
+    "leafy_greens": ["kontomire", "spinach", "lettuce", "cabbage"],
+    "root_vegetables": ["sweet_potato", "yam", "cassava", "cocoyam"],
+    "other_vegetables": ["tomatoes", "onions", "pepper", "okra", "garden_eggs", "carrots", "green_beans"]
+  },
+  "grains_starches": {
+    "whole_grains": ["brown_rice", "millet", "sorghum", "quinoa"],
+    "traditional": ["plantain", "yam", "cassava", "sweet_potato"]
+  },
+  "healthy_fats": {
+    "nuts_seeds": ["groundnuts", "tiger_nuts", "coconut", "palm_kernel"],
+    "oils": ["coconut_oil", "palm_oil_minimal", "olive_oil"]
+  },
+  "spices_herbs": {
+    "local_spices": ["ginger", "garlic", "nutmeg", "cloves", "bay_leaves"],
+    "herbs": ["basil", "thyme", "rosemary", "mint"]
+  },
+  "fruits": {
+    "local_fruits": ["pineapple", "mango", "papaya", "banana", "orange", "watermelon", "avocado"]
+  }
+}

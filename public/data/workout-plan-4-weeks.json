@@ -1,0 +1,220 @@
+{
+  "week_1": {
+    "focus": "Foundation Building",
+    "frequency": "3 days",
+    "description": "Building movement foundation and establishing routine with bodyweight exercises",
+    "day_1": {
+      "name": "Upper Body Power",
+      "duration": "25 mins",
+      "warmup": ["Arm Circles (30s each direction)", "Shoulder Rolls (30s)", "Torso Twists (30s each side)", "Light Jumping Jacks (1 min)", "Arm Swings (30s)"],
+      "exercises": [
+        {"name": "Push-ups", "sets": 3, "reps": "8-12", "rest": "60s", "form_tips": "Keep body straight from head to heels. Lower chest to floor, push up explosively.", "testosterone_benefit": "Compound upper body movement stimulates growth hormone release"},
+        {"name": "Pike Push-ups", "sets": 3, "reps": "6-10", "rest": "60s", "form_tips": "Start in downward dog position. Lower head toward floor between hands.", "testosterone_benefit": "Inverted position improves circulation and hormone transport"},
+        {"name": "Tricep Dips (chair/bench)", "sets": 3, "reps": "8-12", "rest": "45s", "form_tips": "Hands on edge of chair, legs extended. Lower body by bending elbows.", "testosterone_benefit": "Tricep strength supports compound pressing movements"},
+        {"name": "Plank Hold", "sets": 3, "reps": "30-45s", "rest": "45s", "form_tips": "Maintain straight line from head to heels. Engage core and glutes.", "testosterone_benefit": "Core stability improves overall strength and hormone production"},
+        {"name": "Mountain Climbers", "sets": 3, "reps": "20 each leg", "rest": "60s", "form_tips": "Start in plank position. Alternate bringing knees to chest rapidly.", "testosterone_benefit": "High-intensity cardio boosts testosterone levels"}
+      ],
+      "cooldown": ["Chest Stretch (30s)", "Shoulder Stretch (30s each arm)", "Deep Breathing (30s)"]
+    },
+    "day_2": {
+      "name": "Lower Body Strength",
+      "duration": "25 mins",
+      "warmup": ["Leg Swings (30s each leg)", "Hip Circles (30s each direction)", "Bodyweight Squats slow (1 min)", "Lunges in Place (1 min)", "Calf Raises (1 min)"],
+      "exercises": [
+        {"name": "Bodyweight Squats", "sets": 4, "reps": "12-15", "rest": "60s", "form_tips": "Feet shoulder-width apart. Lower until thighs parallel to floor.", "testosterone_benefit": "Large muscle group activation triggers hormone response"},
+        {"name": "Alternating Lunges", "sets": 3, "reps": "10 each leg", "rest": "60s", "form_tips": "Step forward, lower back knee toward floor. Front thigh parallel to ground.", "testosterone_benefit": "Unilateral strength builds functional power"},
+        {"name": "Single-leg Glute Bridges", "sets": 3, "reps": "8-12 each", "rest": "45s", "form_tips": "Lie on back, one foot on floor. Lift hips by squeezing glutes.", "testosterone_benefit": "Glute activation crucial for hormone production"},
+        {"name": "Wall Sit", "sets": 3, "reps": "30-45s", "rest": "60s", "form_tips": "Back against wall, slide down to 90-degree angle. Keep knees over ankles.", "testosterone_benefit": "Isometric holds create metabolic stress"},
+        {"name": "Calf Raises", "sets": 3, "reps": "15-20", "rest": "30s", "form_tips": "Rise up on toes, hold briefly. Lower slowly with control.", "testosterone_benefit": "Lower leg strength supports compound movements"}
+      ],
+      "cooldown": ["Quad Stretch (30s each leg)", "Hamstring Stretch (30s each leg)", "Calf Stretch (30s each leg)"]
+    },
+    "day_3": {
+      "name": "Full Body HIIT",
+      "duration": "20 mins",
+      "warmup": ["Jumping Jacks (1 min)", "High Knees (30s)", "Butt Kicks (30s)", "Arm Circles (30s each direction)"],
+      "exercises": [
+        {"name": "Burpees", "sets": 4, "reps": "6-10", "rest": "90s", "form_tips": "Squat down, jump back to plank. Do push-up, jump feet to hands, jump up.", "testosterone_benefit": "Full-body explosive movement maximizes hormone response"},
+        {"name": "Jump Squats", "sets": 3, "reps": "8-12", "rest": "60s", "form_tips": "Perform regular squat. Explode up into jump. Land softly.", "testosterone_benefit": "Plyometric power development"},
+        {"name": "High Knees", "sets": 3, "reps": "30s", "rest": "30s", "form_tips": "Run in place bringing knees to chest. Pump arms actively.", "testosterone_benefit": "Cardio intensity boosts T levels"},
+        {"name": "Push-up to T", "sets": 3, "reps": "6-8 each side", "rest": "60s", "form_tips": "Perform push-up. Rotate to side plank, arm up. Return.", "testosterone_benefit": "Rotational power and stability"},
+        {"name": "Plank Jacks", "sets": 3, "reps": "15-20", "rest": "45s", "form_tips": "Hold plank position. Jump feet apart and together. Keep core engaged.", "testosterone_benefit": "Core power with cardio element"}
+      ],
+      "cooldown": ["Child's Pose (30s)", "Cat-Cow Stretch (30s)", "Deep Breathing (1 min)"]
+    }
+  },
+
+  "week_2": {
+    "focus": "Strength Building",
+    "frequency": "4 days",
+    "description": "Increasing intensity and adding a fourth training day for progressive overload",
+    "day_1": {
+      "name": "Upper Body Power Plus",
+      "duration": "28 mins",
+      "warmup": ["Arm Circles (30s each)", "Shoulder Rolls (30s)", "Inchworms (5 reps)", "Light Push-ups (5 reps)", "Torso Twists (30s)"],
+      "exercises": [
+        {"name": "Diamond Push-ups", "sets": 4, "reps": "6-10", "rest": "75s", "form_tips": "Hands together forming diamond shape. Lower chest to hands.", "testosterone_benefit": "Increased tricep activation and intensity"},
+        {"name": "Handstand Hold (wall)", "sets": 3, "reps": "15-30s", "rest": "90s", "form_tips": "Kick up to wall. Keep arms straight, core tight.", "testosterone_benefit": "Inverted position boosts circulation and hormone transport"},
+        {"name": "Wide-grip Push-ups", "sets": 3, "reps": "8-12", "rest": "60s", "form_tips": "Hands wider than shoulders. Focus on chest stretch at bottom.", "testosterone_benefit": "Chest development enhances overall T production"},
+        {"name": "Side Plank (each side)", "sets": 3, "reps": "20-30s", "rest": "45s", "form_tips": "Stack feet, lift hips. Keep body in straight line.", "testosterone_benefit": "Lateral core strength and stability"},
+        {"name": "Bear Crawl", "sets": 3, "reps": "30s", "rest": "60s", "form_tips": "Hands and feet on ground, knees hovering. Move forward slowly.", "testosterone_benefit": "Full body coordination and metabolic demand"}
+      ],
+      "cooldown": ["Chest Doorway Stretch (30s)", "Tricep Stretch (30s each)", "Wrist Circles (30s)"]
+    },
+    "day_2": {
+      "name": "Lower Body Power Plus",
+      "duration": "28 mins",
+      "warmup": ["Leg Swings (30s each)", "Hip Circles (30s each)", "Bodyweight Squats (1 min)", "Ankle Circles (30s each)", "Glute Bridges (30s)"],
+      "exercises": [
+        {"name": "Bulgarian Split Squats", "sets": 3, "reps": "8-10 each leg", "rest": "75s", "form_tips": "Rear foot elevated on chair. Lower until front thigh parallel.", "testosterone_benefit": "Unilateral overload for maximum muscle activation"},
+        {"name": "Sumo Squats", "sets": 4, "reps": "12-15", "rest": "60s", "form_tips": "Wide stance, toes pointed out. Lower hips straight down.", "testosterone_benefit": "Inner thigh and glute activation"},
+        {"name": "Step-ups (chair)", "sets": 3, "reps": "10 each leg", "rest": "60s", "form_tips": "Step onto sturdy chair. Drive through heel. Control descent.", "testosterone_benefit": "Functional strength and power development"},
+        {"name": "Glute Bridge March", "sets": 3, "reps": "10 each leg", "rest": "45s", "form_tips": "Hold bridge position. Alternate lifting knees to chest.", "testosterone_benefit": "Glute endurance and hip stability"},
+        {"name": "Jump Lunges", "sets": 3, "reps": "8 each leg", "rest": "75s", "form_tips": "Lunge position, jump and switch legs mid-air. Land softly.", "testosterone_benefit": "Explosive power and plyometric development"}
+      ],
+      "cooldown": ["Pigeon Stretch (30s each)", "Quad Stretch (30s each)", "Hamstring Stretch (30s each)"]
+    },
+    "day_3": {
+      "name": "Core & Conditioning",
+      "duration": "25 mins",
+      "warmup": ["Cat-Cow (30s)", "Bird Dogs (30s each)", "Dead Bugs (30s)", "Torso Rotations (30s)", "Light Jog in Place (1 min)"],
+      "exercises": [
+        {"name": "Bicycle Crunches", "sets": 3, "reps": "15 each side", "rest": "45s", "form_tips": "Hands behind head. Bring opposite elbow to knee. Extend other leg.", "testosterone_benefit": "Core activation supports compound movement strength"},
+        {"name": "Russian Twists", "sets": 3, "reps": "20 total", "rest": "45s", "form_tips": "Lean back slightly, feet off ground. Rotate torso side to side.", "testosterone_benefit": "Rotational core power"},
+        {"name": "Leg Raises", "sets": 3, "reps": "10-12", "rest": "60s", "form_tips": "Lie flat, hands under hips. Raise legs to 90 degrees. Lower slowly.", "testosterone_benefit": "Lower ab activation and hip flexor strength"},
+        {"name": "Superman Hold", "sets": 3, "reps": "20-30s", "rest": "45s", "form_tips": "Lie face down. Lift arms and legs simultaneously. Squeeze back.", "testosterone_benefit": "Posterior chain activation"},
+        {"name": "Burpee to Tuck Jump", "sets": 3, "reps": "6-8", "rest": "90s", "form_tips": "Standard burpee but jump with knees to chest at top.", "testosterone_benefit": "Maximum intensity full-body movement"}
+      ],
+      "cooldown": ["Child's Pose (30s)", "Cobra Stretch (30s)", "Spinal Twist (30s each side)"]
+    },
+    "day_4": {
+      "name": "Full Body Strength",
+      "duration": "30 mins",
+      "warmup": ["Jumping Jacks (1 min)", "Arm Circles (30s)", "Leg Swings (30s each)", "Bodyweight Squats (30s)", "Push-ups (5 reps)"],
+      "exercises": [
+        {"name": "Decline Push-ups", "sets": 4, "reps": "8-12", "rest": "60s", "form_tips": "Feet elevated on chair. Hands on floor. Lower chest to ground.", "testosterone_benefit": "Increased upper chest and shoulder activation"},
+        {"name": "Pistol Squat Progression", "sets": 3, "reps": "5-8 each leg", "rest": "90s", "form_tips": "Hold onto support. Lower on one leg. Use assistance as needed.", "testosterone_benefit": "Maximum single-leg strength development"},
+        {"name": "Pike Push-ups (elevated)", "sets": 3, "reps": "6-10", "rest": "75s", "form_tips": "Feet on chair in pike position. Lower head toward floor.", "testosterone_benefit": "Shoulder strength approaching handstand push-up"},
+        {"name": "Single-leg Deadlift", "sets": 3, "reps": "8-10 each", "rest": "60s", "form_tips": "Stand on one leg. Hinge forward, reaching toward floor. Keep back flat.", "testosterone_benefit": "Posterior chain and balance development"},
+        {"name": "Explosive Push-ups", "sets": 3, "reps": "6-8", "rest": "75s", "form_tips": "Push up explosively so hands leave ground. Land softly.", "testosterone_benefit": "Power development and fast-twitch fiber recruitment"}
+      ],
+      "cooldown": ["Full Body Stretch (30s each major muscle)", "Deep Breathing (1 min)"]
+    }
+  },
+
+  "week_3": {
+    "focus": "Power Development",
+    "frequency": "4 days",
+    "description": "Introducing explosive movements and increasing volume for maximum testosterone response",
+    "day_1": {
+      "name": "Push Power",
+      "duration": "30 mins",
+      "warmup": ["Arm Circles (30s each)", "Shoulder Dislocates (30s)", "Inchworms (5 reps)", "Scapular Push-ups (10 reps)", "Light Jog (1 min)"],
+      "exercises": [
+        {"name": "Clap Push-ups", "sets": 4, "reps": "5-8", "rest": "90s", "form_tips": "Push up explosively, clap hands, land softly. Modify on knees if needed.", "testosterone_benefit": "Maximum power output and fast-twitch recruitment"},
+        {"name": "Archer Push-ups", "sets": 3, "reps": "5-7 each side", "rest": "75s", "form_tips": "Wide hand position. Shift weight to one arm while extending other.", "testosterone_benefit": "Unilateral pressing strength approaching one-arm push-up"},
+        {"name": "Handstand Push-up (wall)", "sets": 3, "reps": "3-6", "rest": "120s", "form_tips": "Kick up to wall. Lower head to floor. Push back up.", "testosterone_benefit": "Maximum shoulder strength and overhead pressing power"},
+        {"name": "Dip Hold (max time)", "sets": 3, "reps": "Max hold", "rest": "60s", "form_tips": "Support body on parallel surfaces. Hold top position with locked arms.", "testosterone_benefit": "Isometric strength builds tendon resilience"},
+        {"name": "Plank to Push-up", "sets": 3, "reps": "8-10", "rest": "60s", "form_tips": "Start on forearms. Push up to hands one arm at a time. Alternate leading arm.", "testosterone_benefit": "Transitional strength and core stability"}
+      ],
+      "cooldown": ["Chest Stretch (30s)", "Shoulder Stretch (30s each)", "Wrist Stretch (30s)", "Deep Breathing (30s)"]
+    },
+    "day_2": {
+      "name": "Leg Power",
+      "duration": "30 mins",
+      "warmup": ["High Knees (30s)", "Butt Kicks (30s)", "Leg Swings (30s each)", "Bodyweight Squats (1 min)", "Ankle Hops (30s)"],
+      "exercises": [
+        {"name": "Box Jumps (or step)", "sets": 4, "reps": "6-8", "rest": "90s", "form_tips": "Jump onto sturdy elevated surface. Land softly with bent knees. Step down.", "testosterone_benefit": "Explosive power and maximum muscle fiber recruitment"},
+        {"name": "Pistol Squats", "sets": 3, "reps": "4-6 each leg", "rest": "90s", "form_tips": "Extend one leg forward. Lower on standing leg. Use support if needed.", "testosterone_benefit": "Maximum single-leg strength and balance"},
+        {"name": "Broad Jumps", "sets": 4, "reps": "5-6", "rest": "75s", "form_tips": "Swing arms back, explode forward. Land softly with bent knees.", "testosterone_benefit": "Horizontal power development"},
+        {"name": "Nordic Curl Progression", "sets": 3, "reps": "4-6", "rest": "90s", "form_tips": "Kneel, anchor feet. Lower body forward slowly. Push back up from floor.", "testosterone_benefit": "Eccentric hamstring strength"},
+        {"name": "Squat Jump to Lunge", "sets": 3, "reps": "6 each", "rest": "75s", "form_tips": "Jump squat, land in lunge position. Alternate sides.", "testosterone_benefit": "Complex movement pattern for maximum metabolic demand"}
+      ],
+      "cooldown": ["Quad Stretch (30s each)", "Hamstring Stretch (30s each)", "Hip Flexor Stretch (30s each)", "Calf Stretch (30s each)"]
+    },
+    "day_3": {
+      "name": "Core & Athleticism",
+      "duration": "25 mins",
+      "warmup": ["Jumping Jacks (1 min)", "Mountain Climbers (30s)", "Torso Rotations (30s)", "Cat-Cow (30s)", "Plank Hold (30s)"],
+      "exercises": [
+        {"name": "Dragon Flags (progression)", "sets": 3, "reps": "4-6", "rest": "90s", "form_tips": "Lie on bench, grip behind head. Raise body as one unit. Lower slowly.", "testosterone_benefit": "Advanced core strength and full-body tension"},
+        {"name": "L-Sit Hold (floor)", "sets": 3, "reps": "10-20s", "rest": "75s", "form_tips": "Hands on floor beside hips. Lift body, extend legs forward.", "testosterone_benefit": "Hip flexor and core isometric strength"},
+        {"name": "Windshield Wipers", "sets": 3, "reps": "6-8 each side", "rest": "60s", "form_tips": "Lie on back, legs up. Lower legs side to side with control.", "testosterone_benefit": "Rotational core power and oblique strength"},
+        {"name": "Tuck Planche Hold", "sets": 3, "reps": "10-15s", "rest": "90s", "form_tips": "Hands on floor, lean forward. Tuck knees to chest, lift feet.", "testosterone_benefit": "Advanced pushing strength and body control"},
+        {"name": "Sprint Intervals", "sets": 5, "reps": "20s sprint / 40s rest", "rest": "40s", "form_tips": "All-out effort for 20 seconds. Walk or jog during rest.", "testosterone_benefit": "HIIT sprints are proven to boost testosterone significantly"}
+      ],
+      "cooldown": ["Cobra Stretch (30s)", "Child's Pose (30s)", "Spinal Twist (30s each)", "Deep Breathing (1 min)"]
+    },
+    "day_4": {
+      "name": "Full Body Power Circuit",
+      "duration": "30 mins",
+      "warmup": ["Jumping Jacks (1 min)", "High Knees (30s)", "Arm Swings (30s)", "Bodyweight Squats (30s)", "Push-ups (5 reps)"],
+      "exercises": [
+        {"name": "Burpee Pull-up (or jump)", "sets": 4, "reps": "5-8", "rest": "90s", "form_tips": "Perform burpee under bar. Jump to pull-up or high reach at top.", "testosterone_benefit": "Maximum full-body power output"},
+        {"name": "Explosive Step-ups", "sets": 3, "reps": "8 each leg", "rest": "75s", "form_tips": "Step up explosively, driving knee up at top. Switch legs.", "testosterone_benefit": "Single-leg explosive power"},
+        {"name": "Decline Diamond Push-ups", "sets": 3, "reps": "6-10", "rest": "75s", "form_tips": "Feet elevated, hands in diamond. Maximum tricep and chest activation.", "testosterone_benefit": "Advanced pressing strength"},
+        {"name": "Jumping Lunges", "sets": 3, "reps": "8 each leg", "rest": "60s", "form_tips": "Lunge position, jump and switch. Land softly in opposite lunge.", "testosterone_benefit": "Plyometric leg power"},
+        {"name": "Hollow Body Hold", "sets": 3, "reps": "20-30s", "rest": "45s", "form_tips": "Lie on back. Lift shoulders and legs. Press lower back to floor.", "testosterone_benefit": "Deep core activation and gymnastic strength"}
+      ],
+      "cooldown": ["Full Body Stretch sequence (2 mins)", "Deep Breathing (1 min)"]
+    }
+  },
+
+  "week_4": {
+    "focus": "Peak Performance",
+    "frequency": "4 days",
+    "description": "Maximum intensity week combining all skills learned for peak testosterone and fitness response",
+    "day_1": {
+      "name": "Upper Body Mastery",
+      "duration": "32 mins",
+      "warmup": ["Arm Circles (30s each)", "Band Pull-aparts or Arm Swings (30s)", "Inchworms (5 reps)", "Scapular Push-ups (10 reps)", "Light Push-ups (5 reps)"],
+      "exercises": [
+        {"name": "One-Arm Push-up Progression", "sets": 4, "reps": "3-5 each arm", "rest": "120s", "form_tips": "Wide stance for balance. Lower on one arm. Use elevation to modify.", "testosterone_benefit": "Maximum unilateral pressing strength"},
+        {"name": "Handstand Push-ups", "sets": 4, "reps": "4-8", "rest": "120s", "form_tips": "Wall-supported. Full range of motion. Head to floor and back up.", "testosterone_benefit": "Peak overhead pressing power"},
+        {"name": "Muscle-up Progression", "sets": 3, "reps": "3-5", "rest": "120s", "form_tips": "Explosive pull-up transitioning over bar. Use jump assist if needed.", "testosterone_benefit": "Full upper body pulling and pushing power"},
+        {"name": "Planche Lean Push-ups", "sets": 3, "reps": "5-8", "rest": "90s", "form_tips": "Lean forward past hands in push-up. Increased shoulder demand.", "testosterone_benefit": "Advanced pushing strength and body control"},
+        {"name": "Typewriter Push-ups", "sets": 3, "reps": "4-6 each side", "rest": "75s", "form_tips": "Wide push-up position. Shift to one side at bottom. Push back up.", "testosterone_benefit": "Lateral pressing strength and chest development"}
+      ],
+      "cooldown": ["Chest Stretch (30s)", "Lat Stretch (30s each)", "Shoulder Stretch (30s each)", "Wrist Stretch (30s)"]
+    },
+    "day_2": {
+      "name": "Lower Body Mastery",
+      "duration": "32 mins",
+      "warmup": ["High Knees (1 min)", "Leg Swings (30s each)", "Deep Squats (30s hold)", "Ankle Hops (30s)", "Glute Bridges (30s)"],
+      "exercises": [
+        {"name": "Pistol Squats (full)", "sets": 4, "reps": "5-8 each leg", "rest": "90s", "form_tips": "No assistance. Full depth on one leg. Arms forward for balance.", "testosterone_benefit": "Peak single-leg strength achievement"},
+        {"name": "Depth Jumps", "sets": 4, "reps": "5-6", "rest": "120s", "form_tips": "Step off box, land, immediately jump as high as possible.", "testosterone_benefit": "Reactive power and nervous system activation"},
+        {"name": "Shrimp Squats", "sets": 3, "reps": "4-6 each leg", "rest": "90s", "form_tips": "Hold rear foot behind you. Lower knee to floor. Stand back up.", "testosterone_benefit": "Advanced single-leg strength variation"},
+        {"name": "Nordic Curls (full)", "sets": 3, "reps": "4-6", "rest": "90s", "form_tips": "Kneel, anchor feet. Lower body forward with control. Full range.", "testosterone_benefit": "Peak eccentric hamstring strength"},
+        {"name": "Broad Jump + Vertical Jump", "sets": 4, "reps": "4 combos", "rest": "90s", "form_tips": "Broad jump forward, immediately jump vertically. Maximum effort.", "testosterone_benefit": "Complex plyometric power development"}
+      ],
+      "cooldown": ["Deep Squat Hold (30s)", "Pigeon Stretch (30s each)", "Hamstring Stretch (30s each)", "Hip Flexor Stretch (30s each)"]
+    },
+    "day_3": {
+      "name": "Core Mastery & Skills",
+      "duration": "28 mins",
+      "warmup": ["Jumping Jacks (1 min)", "Mountain Climbers (30s)", "Hollow Body Rock (30s)", "Cat-Cow (30s)", "Plank (30s)"],
+      "exercises": [
+        {"name": "Dragon Flags (full)", "sets": 4, "reps": "4-6", "rest": "90s", "form_tips": "Full body as one unit. Lower slowly with control. No arching.", "testosterone_benefit": "Peak core strength and full-body tension"},
+        {"name": "L-Sit (full, 15-30s)", "sets": 3, "reps": "15-30s", "rest": "90s", "form_tips": "Legs fully extended and parallel to floor. Shoulders depressed.", "testosterone_benefit": "Advanced isometric core and hip flexor strength"},
+        {"name": "Front Lever Progression", "sets": 3, "reps": "10-15s hold", "rest": "120s", "form_tips": "Hang from bar. Raise body to horizontal. Use tuck to modify.", "testosterone_benefit": "Full posterior chain activation under tension"},
+        {"name": "Ab Wheel Rollouts (or towel)", "sets": 3, "reps": "6-8", "rest": "75s", "form_tips": "Kneel, roll forward extending body. Pull back with core. No hip sag.", "testosterone_benefit": "Anti-extension core strength"},
+        {"name": "Tabata Sprints", "sets": 8, "reps": "20s on / 10s off", "rest": "10s", "form_tips": "Maximum effort sprints. True all-out intensity each round.", "testosterone_benefit": "Tabata protocol proven to maximize testosterone and growth hormone"}
+      ],
+      "cooldown": ["Cobra Stretch (30s)", "Child's Pose (30s)", "Spinal Twist (30s each)", "Deep Breathing (1 min)"]
+    },
+    "day_4": {
+      "name": "Final Challenge - Full Body",
+      "duration": "35 mins",
+      "warmup": ["Full Body Dynamic Warm-up (3 mins)", "Gradually increasing intensity movements"],
+      "exercises": [
+        {"name": "Muscle-up or Explosive Pull-up", "sets": 4, "reps": "3-5", "rest": "120s", "form_tips": "Pull explosively above bar. Transition to dip position. Lower with control.", "testosterone_benefit": "Ultimate upper body pulling power"},
+        {"name": "Pistol Squat to Box Jump", "sets": 3, "reps": "3-4 each leg", "rest": "120s", "form_tips": "Pistol squat, stand, immediately box jump. Maximum power chain.", "testosterone_benefit": "Complex movement for peak leg power"},
+        {"name": "Handstand Push-up + Walk", "sets": 3, "reps": "3-5 + 10s walk", "rest": "120s", "form_tips": "Perform HSPU then walk on hands along wall.", "testosterone_benefit": "Peak shoulder strength and body control"},
+        {"name": "Burpee Muscle-up", "sets": 3, "reps": "3-5", "rest": "120s", "form_tips": "Burpee under bar, jump to muscle-up. Ultimate full-body movement.", "testosterone_benefit": "Maximum power output combining all movement patterns"},
+        {"name": "Sprint Finisher", "sets": 3, "reps": "100m sprint", "rest": "120s", "form_tips": "All-out 100m sprints. Full recovery between. Leave nothing in the tank.", "testosterone_benefit": "Sprint training is the ultimate testosterone booster"}
+      ],
+      "cooldown": ["Full Body Stretch Sequence (3 mins)", "Meditation and Deep Breathing (2 mins)", "Celebrate your 4-week transformation!"]
+    }
+  }
+}
